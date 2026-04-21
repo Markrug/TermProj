@@ -1,0 +1,55 @@
+=== Large random graph (8,500 vertices, 70,000,000 edges) ===
+KKT     time: 9874 ms  |  MST weight: 12.39  |  edges: 8499
+Kruskal time: 30678 ms  |  MST weight: 12.39  |  edges: 8499
+Weight match:  YES
+Parallelism: 27 threads available
+=== Large random graph (8,500 vertices, 63,000,850 edges) ===
+KKT     time: 10791 ms  |  MST weight: 13.84  |  edges: 8499
+Kruskal time: 29296 ms  |  MST weight: 13.84  |  edges: 8499
+Weight match:  NO (randomized — may differ)
+Parallelism: 27 threads available
+=== Large random graph (8,500 vertices, 56,001,700 edges) ===
+KKT     time: 6857 ms  |  MST weight: 15.52  |  edges: 8499
+Kruskal time: 24424 ms  |  MST weight: 15.52  |  edges: 8499
+Weight match:  NO (randomized — may differ)
+Parallelism: 27 threads available
+=== Large random graph (8,500 vertices, 49,002,550 edges) ===
+KKT     time: 5803 ms  |  MST weight: 17.74  |  edges: 8499
+Kruskal time: 20005 ms  |  MST weight: 17.74  |  edges: 8499
+Weight match:  YES
+Parallelism: 27 threads available
+=== Large random graph (8,500 vertices, 42,003,400 edges) ===
+KKT     time: 5259 ms  |  MST weight: 20.56  |  edges: 8499
+Kruskal time: 17257 ms  |  MST weight: 20.56  |  edges: 8499
+Weight match:  YES
+Parallelism: 27 threads available
+=== Large random graph (8,500 vertices, 35,004,250 edges) ===
+KKT     time: 4147 ms  |  MST weight: 24.77  |  edges: 8499
+Kruskal time: 13649 ms  |  MST weight: 24.77  |  edges: 8499
+Weight match:  NO (randomized — may differ)
+Parallelism: 27 threads available
+=== Large random graph (8,500 vertices, 28,005,100 edges) ===
+KKT     time: 3145 ms  |  MST weight: 30.97  |  edges: 8499
+Kruskal time: 10907 ms  |  MST weight: 30.97  |  edges: 8499
+Weight match:  YES
+Parallelism: 27 threads available
+=== Large random graph (8,500 vertices, 21,005,950 edges) ===
+KKT     time: 2103 ms  |  MST weight: 41.07  |  edges: 8499
+Kruskal time: 7830 ms  |  MST weight: 41.07  |  edges: 8499
+Weight match:  NO (randomized — may differ)
+Parallelism: 27 threads available
+=== Large random graph (8,500 vertices, 14,006,800 edges) ===
+KKT     time: 1523 ms  |  MST weight: 61.99  |  edges: 8499
+Kruskal time: 4931 ms  |  MST weight: 61.99  |  edges: 8499
+Weight match:  NO (randomized — may differ)
+Parallelism: 27 threads available
+=== Large random graph (8,500 vertices, 7,007,650 edges) ===
+KKT     time:  964 ms  |  MST weight: 124.37  |  edges: 8499
+Kruskal time: 2242 ms  |  MST weight: 124.37  |  edges: 8499
+Weight match:  YES
+Parallelism: 27 threads available
+=== Large random graph (8,500 vertices, 8,500 edges) ===
+KKT     time:    3 ms  |  MST weight: 61857.89  |  edges: 7096
+Kruskal time:    1 ms  |  MST weight: 61857.75  |  edges: 7096
+Weight match:  NO (randomized — may differ)
+Parallelism: 27 threads available

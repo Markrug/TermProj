@@ -1,0 +1,87 @@
+=== Graph (8,500 vertices, 70,000,000 edges) ===
+Filter-Kruskal:  3049 ms | weight: 12.39 | edges: 8499
+KKT:              8051 ms | weight: 12.39 | edges: 8499
+Sequential:      30501 ms | weight: 12.39 | edges: 8499
+FK vs KKT match: YES
+FK vs Seq match: YES
+Parallelism: 27 threads
+
+=== Graph (8,500 vertices, 63,000,850 edges) ===
+Filter-Kruskal:  1793 ms | weight: 13.84 | edges: 8499
+KKT:              8626 ms | weight: 13.84 | edges: 8499
+Sequential:      28879 ms | weight: 13.84 | edges: 8499
+FK vs KKT match: NO (KKT randomized)
+FK vs Seq match: YES
+Parallelism: 27 threads
+
+=== Graph (8,500 vertices, 56,001,700 edges) ===
+Filter-Kruskal:  1550 ms | weight: 15.52 | edges: 8499
+KKT:              8418 ms | weight: 15.52 | edges: 8499
+Sequential:      23589 ms | weight: 15.52 | edges: 8499
+FK vs KKT match: NO (KKT randomized)
+FK vs Seq match: YES
+Parallelism: 27 threads
+
+=== Graph (8,500 vertices, 49,002,550 edges) ===
+Filter-Kruskal:  1860 ms | weight: 17.74 | edges: 8499
+KKT:              5897 ms | weight: 17.74 | edges: 8499
+Sequential:      21279 ms | weight: 17.74 | edges: 8499
+FK vs KKT match: YES
+FK vs Seq match: YES
+Parallelism: 27 threads
+
+=== Graph (8,500 vertices, 42,003,400 edges) ===
+Filter-Kruskal:  1724 ms | weight: 20.56 | edges: 8499
+KKT:              4915 ms | weight: 20.56 | edges: 8499
+Sequential:      17370 ms | weight: 20.56 | edges: 8499
+FK vs KKT match: YES
+FK vs Seq match: YES
+Parallelism: 27 threads
+
+=== Graph (8,500 vertices, 35,004,250 edges) ===
+Filter-Kruskal:  1338 ms | weight: 24.77 | edges: 8499
+KKT:              3836 ms | weight: 24.77 | edges: 8499
+Sequential:      14132 ms | weight: 24.77 | edges: 8499
+FK vs KKT match: NO (KKT randomized)
+FK vs Seq match: YES
+Parallelism: 27 threads
+
+=== Graph (8,500 vertices, 28,005,100 edges) ===
+Filter-Kruskal:   766 ms | weight: 30.97 | edges: 8499
+KKT:              3489 ms | weight: 30.97 | edges: 8499
+Sequential:      11065 ms | weight: 30.97 | edges: 8499
+FK vs KKT match: YES
+FK vs Seq match: YES
+Parallelism: 27 threads
+
+=== Graph (8,500 vertices, 21,005,950 edges) ===
+Filter-Kruskal:   700 ms | weight: 41.07 | edges: 8499
+KKT:              2248 ms | weight: 41.07 | edges: 8499
+Sequential:       7756 ms | weight: 41.07 | edges: 8499
+FK vs KKT match: YES
+FK vs Seq match: YES
+Parallelism: 27 threads
+
+=== Graph (8,500 vertices, 14,006,800 edges) ===
+Filter-Kruskal:   417 ms | weight: 61.99 | edges: 8499
+KKT:              1628 ms | weight: 61.99 | edges: 8499
+Sequential:       5028 ms | weight: 61.99 | edges: 8499
+FK vs KKT match: YES
+FK vs Seq match: YES
+Parallelism: 27 threads
+
+=== Graph (8,500 vertices, 7,007,650 edges) ===
+Filter-Kruskal:   203 ms | weight: 124.37 | edges: 8499
+KKT:               946 ms | weight: 124.37 | edges: 8499
+Sequential:       2238 ms | weight: 124.37 | edges: 8499
+FK vs KKT match: YES
+FK vs Seq match: YES
+Parallelism: 27 threads
+
+=== Graph (8,500 vertices, 8,500 edges) ===
+Filter-Kruskal:     3 ms | weight: 61857.75 | edges: 7096
+KKT:                 1 ms | weight: 61857.75 | edges: 7096
+Sequential:          2 ms | weight: 61857.75 | edges: 7096
+FK vs KKT match: YES
+FK vs Seq match: YES
+Parallelism: 27 threads
